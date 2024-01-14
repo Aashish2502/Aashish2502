@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on/with ...
+    - Backend technolgies
+    - LLMs
     - Business Intelligence technologies
     - Advanced Data-visualization techniques and concepts
       
 - 🌱 I’m currently learning ...
     - React
-    - Plotly
+    - Node.js
+    - Steamlit
 
 - 📫 How to reach me: ...
   - [LinkedIn](https://www.linkedin.com/in/aashish-waghmare-1b4810202/)
