@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on/with ...
-    - Backend technolgies
+    - Backend technolgies (Flask)
     - MERN stack
-    - Flask
     - Business Intelligence technologies
     - Advanced Data-visualization techniques and concepts
       
