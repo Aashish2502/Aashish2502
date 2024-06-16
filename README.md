@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on/with ...
     - Backend technolgies
-    - LLMs
+    - MERN stack
+    - Flask
     - Business Intelligence technologies
     - Advanced Data-visualization techniques and concepts
       
 - 🌱 I’m currently learning ...
     - React
-    - Node.js
+    - Hardoop
+    - Big-Data
     - Steamlit
 
 - 📫 How to reach me: ...
