@@ -22,8 +22,7 @@ Here are some ideas to get you started:
     - Advanced Data-visualization techniques and concepts
       
 - 🌱 I’m currently learning ...
-    - React
-    - Hardoop
+    - Gen AI
     - Big-Data
     - Steamlit
 
