@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Aashish, an undergrad at the Indian Institute of Technology Jodhpur majoring in Mechanical Engineering. I am keenly interested in Business Intelligence, Data Analysis, and Visualisation.
+I'm Aashish, a graduate from the Indian Institute of Technology Jodhpur. I am an aspiring AI Engineer
 <!--
 **Aashish2502/Aashish2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
