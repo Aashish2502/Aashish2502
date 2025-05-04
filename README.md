@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on/with ...
-    - Backend technolgies (Flask)
-    - MERN stack
+    - Backend technolgies (FastAPI)
+    - LLMs
     - Business Intelligence technologies
     - Advanced Data-visualization techniques and concepts
       
 - 🌱 I’m currently learning ...
-    - Gen AI
-    - Big-Data
-    - Steamlit
+    - Generative AI
+    - Agentic AI
 
 - 📫 How to reach me: ...
   - [LinkedIn](https://www.linkedin.com/in/aashish-waghmare-1b4810202/)
